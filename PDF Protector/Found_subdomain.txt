@@ -1,0 +1,146 @@
+http://catalog.google.com/
+A: 142.250.192.142
+http://billing.google.com/
+A: 142.250.192.142
+http://catalogue.google.com/
+A: 142.250.192.142
+http://calendar.google.com/
+A: 142.250.192.78
+http://api.google.com/
+A: 142.251.222.68
+https://analytics.google.com/analytics/web/
+A: 216.239.36.181
+A: 216.239.32.181
+A: 216.239.34.181
+A: 216.239.38.181
+https://archive.google/
+A: 142.250.183.78
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=AfYwgwW2sbQjsmuC1_bL7hps_v52DwE8wkorwkXefmgAcAWLM9TeaSC6bl1ZfBmT7HjwKrNFpmaN&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1696287468%3A1757255420099779
+A: 74.125.130.84
+https://chat.google.com/
+A: 142.251.42.78
+http://desktop.google.com/
+A: 142.250.192.4
+https://support.google.com/business/answer/3420286?visit_id=638928522218695505-1685138483&p=browser_support&rd=1
+A: 142.251.221.238
+http://download.google.com/
+A: 142.250.183.68
+https://business.google.com/in/google-ads/
+A: 142.251.42.14
+http://d.google.com/
+A: 142.250.192.46
+http://downloads.google.com/
+A: 142.250.183.68
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fclassroom.google.com%2F&emr=1&followup=https%3A%2F%2Fclassroom.google.com%2F&ifkv=AfYwgwW2jr4Z7voPqf7PjHjXslYexvr_8jWyfQbed1UiTulBkYrZuY_Dj9l-2eccMQDc-A59Z_-LaA&passive=1209600&service=classroom&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1461076009%3A1757255424907522
+A: 142.251.42.46
+https://workspace.google.com/
+A: 142.250.192.46
+http://email.google.com/
+A: 142.250.192.46
+http://corp.google.com/
+A: 74.125.200.129
+https://www.google.com/about/careers/applications/
+A: 142.251.42.78
+https://blog.google/
+A: 142.251.220.41
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fcontacts.google.com%2F&followup=https%3A%2F%2Fcontacts.google.com%2F&ifkv=AfYwgwVyJtpknD6_HQREF3bICwunLyQn4wphLGy8O4cwGN2iyB3OkoZ1M91CXElODXvdHnzk7LXD&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1927636211%3A1757255429051983
+A: 142.250.183.78
+https://domains.google/
+A: 142.251.43.14
+https://developers.google.com/
+A: 142.251.42.238
+https://events.google.com/
+A: 142.250.67.174
+https://edu.google.com/
+A: 142.250.71.110
+https://cloud.google.com/
+A: 142.250.183.46
+http://directory.google.com/
+A: 142.250.192.46
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fadmin.google.com%2F&followup=https%3A%2F%2Fadmin.google.com%2F&ifkv=AfYwgwUvfWI6MeVjd7JF-hO23thjq65RRPd-Ax7W1Zmjr0wyulzFX5lLtDu0MoFjtQK-DTaof56FGg&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1140646831%3A1757255431959282
+A: 142.251.220.14
+http://lp.google.com/
+A: 142.250.192.46
+http://images.google.com/
+A: 142.251.222.78
+http://ldap.google.com/
+A: 216.239.32.58
+http://ipv4.google.com/
+A: 142.250.192.110
+http://images.google.com/
+A: 142.251.222.78
+http://id.google.com/
+A: 173.194.219.94
+https://support.google.com/
+A: 142.250.192.46
+https://home.google.com/welcome/
+A: 142.251.42.78
+https://www.google.com:443/maps
+A: 142.250.192.110
+https://music.youtube.com/googleplaymusic
+A: 142.250.192.46
+https://jobs.google.com/about/
+A: 142.250.192.46
+https://meet.google.com/
+A: 142.250.183.78
+https://health.google/
+A: 142.251.43.14
+https://www.google.com:443/maps
+A: 142.251.220.46
+https://www.google.com:443/maps
+A: 142.250.192.110
+https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html
+A: 142.250.192.46
+https://www.google.com/maps/space/mars/
+A: 142.250.192.46
+http://sandbox.google.com/
+A: 142.250.4.81
+https://about.google/products/#!/recommended
+A: 142.251.220.43
+http://sms.google.com/
+A: 142.250.192.46
+http://videos.google.com/
+A: 142.250.207.174
+http://web.google.com/
+A: 142.250.192.46
+http://www6.google.com/
+A: 142.251.42.4
+http://www.google.com/
+A: 142.250.77.36
+http://www4.google.com/
+A: 142.251.220.14
+http://www5.google.com/
+A: 142.250.70.100
+http://upload.google.com/
+A: 142.250.76.175
+http://w.google.com/
+A: 142.250.192.46
+http://wifi.google.com/
+A: 172.217.194.123
+https://wap.google.com/
+A: 142.250.192.46
+https://store.google.com/?hl=en-IN
+A: 142.250.183.110
+http://www.google.com/videohp
+A: 142.250.207.174
+http://www.google.com/
+A: 216.239.35.8
+A: 216.239.35.12
+A: 216.239.35.0
+A: 216.239.35.4
+https://www.google.com/
+A: 142.250.192.46
+https://support.google.com/
+A: 142.251.42.46
+https://www.google.com/travel/
+A: 142.250.207.142
+https://www.google.com/chrome/
+A: 142.250.183.46
+https://developers.google.com/search
+A: 142.250.192.46
+https://support.google.com/surveys/answer/12626240
+A: 142.250.77.46
+https://tv.google/
+A: 142.250.192.46
+https://cloud.google.com/
+A: 142.250.192.46
